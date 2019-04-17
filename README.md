@@ -100,7 +100,7 @@ MxAdmin1: <joins #javascript> "Hey Patt, admin here. Could you tone it down? Thi
 
 Patt: "Leave me alone I haven't said anything bad wtf is wrong with you."
 
-MxAdmin1: "/remove @patt", "/msg @patt I mean it. Please refer to the CoC linked at <INSERT COC URL> if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in #javascript, since they made folks there uncomfortable. Let's try and be kind, yeah?"
+MxAdmin1: "/remove @patt", "/msg @patt I mean it. Please refer to the CoC linked at https://github.com/we-developed-it/code-of-conduct if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in #javascript, since they made folks there uncomfortable. Let's try and be kind, yeah?"
 
 Patt: "/msg @mxadmin1 Okay sorry. I'm just frustrated and I'm kinda burnt out and I guess I got carried away. I'll DM Alex a note apologizing and edit my messages. Sorry for the trouble."
 
