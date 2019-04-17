@@ -75,15 +75,20 @@ Whenever a significant administrative decision needs to be made, all admins will
 ### The Best Case
 The vast majority of situations work out like this, in our experience. This interaction is common, and generally positive.
 
-`Alex: "Yeah I used X and it was really crazy!"
+```
+Alex: "Yeah I used X and it was really crazy!"
 
 Patt: "Hey, could you not use that word? What about 'ridiculous' instead?"
 
-Alex: "oh sorry, sure." -> edits old message to say "it was really confusing!"`
+Alex: "oh sorry, sure." -> edits old message to say "it was really confusing!"
+```
+
 
 ### The Admin Case
 Sometimes, though, you need to get admins involved. Admins will do their best to resolve conflicts, but people who were harmed by something will take priority.
-`Patt: "Honestly, sometimes I just really hate using $library and anyone who uses it probably sucks at their job."
+
+```
+Patt: "Honestly, sometimes I just really hate using $library and anyone who uses it probably sucks at their job."
 
 Alex: "Whoa there, could you dial it back a bit? There's a CoC thing about attacking folks' tech use like that."
 
@@ -99,7 +104,8 @@ MxAdmin1: "/remove @patt", "/msg @patt I mean it. Please refer to the CoC linked
 
 Patt: "/msg @mxadmin1 Okay sorry. I'm just frustrated and I'm kinda burnt out and I guess I got carried away. I'll DM Alex a note apologizing and edit my messages. Sorry for the trouble."
 
-MxAdmin1: "/msg @patt Thanks for that. I hear you on the stress. Burnout sucks :/. Have a good one!"`
+MxAdmin1: "/msg @patt Thanks for that. I hear you on the stress. Burnout sucks :/. Have a good one!"
+```
 
 ## Attribution
 This Code of Conduct is adapted from the [WeAllJS Code of Conduct](https://wealljs.org/code-of-conduct), which was in turn adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at [http://contributor-covenant.org/version/1/4](http://contributor-covenant.org/version/1/4), the LGBTQ in Technology Slack [Code of Conduct](http://lgbtq.technology/coc.html), and the [Women in Technology Slack Group](https://witchat.github.io/).
