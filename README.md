@@ -50,7 +50,7 @@ Once the admins get involved, they will follow a documented series of steps and 
 ## Contacting Admins
 You may get in touch with the We Developed It admin team by directly messaging them in private. Feel free to message multiple admins in case you do not get a response from someone.
 
-The admins are (alphabetical order): Megan Boczar (@megan.boczar.a2), Kelli Dore (@Kelli), Talya Flowers-Souley (@talya.flowers.dayton/cincinnati), Rita Hill (@rita), Maureen McElaney (@maureen.mcelaney.vt), Sylvia Pellicore (@Sylvia), Kristen Seversky (kristen.seversky.roc), Angel Thomas (@Angel)
+The admins are (alphabetical order): Megan Boczar (@megan.boczar.a2), Kelli Dore (@Kelli), Talya Flowers-Souley (@talya.flowers.dayton/cincinnati), Rita Hill (@rita), Sylvia Pellicore (@Sylvia), Kristen Seversky (kristen.seversky.roc), Angel Thomas (@Angel)
  
 ## Further Enforcement
 If you've already followed the initial enforcement steps, these are the steps admins will take for further enforcement, as needed:
